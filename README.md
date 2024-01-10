@@ -1,5 +1,9 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-auroram&layout=donut)](https://github.com/ad-auroram/github-readme-stats)
 
+- 💬 I'm currently working on getting things set up for a new semester
+- 🌱 Learning JavaScript and HTML
+- 🔭 In my free time I love to draw!
 <!--
 **ad-auroram/ad-auroram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
