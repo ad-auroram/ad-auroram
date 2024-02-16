@@ -1,6 +1,5 @@
   ### Hi there 👋
   
-- 💬 I'm currently working on getting things set up for a new semester
 - 🌱 Learning JavaScript and HTML
 - 🔭 In my free time I love to draw!
   
