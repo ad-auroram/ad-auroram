@@ -1,8 +1,8 @@
   ### Hi there 👋
   
 - 🌱 Learning JavaScript and HTML
-- 🔭 In my free time I love to draw!
-  
+- ✨ Working on some game dev in my free time
+- 🔭 I love to draw!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-auroram&layout=compact&theme=omni)
 
 <!--
