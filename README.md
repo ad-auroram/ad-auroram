@@ -1,6 +1,6 @@
   ### Hi there 👋
   
-- 🌱 Learning Linux, Django
+- 🌱 Learning Linux, Django, and React
 - ✨ Working on some game dev in my free time
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-auroram&layout=compact&theme=omni)
